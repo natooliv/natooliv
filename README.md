@@ -7,7 +7,7 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Nat-Js" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="right" alt="Nat-pic" height="150" style="border-radius:50px;" src="https://picrew.me/share?cd=QSattQJqL1">
+  <img align="right" alt="Nat-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/109634929/189771763-6ae06a50-2277-4a60-82f5-0538837d628b.png)">
 </div>
 
   ##
