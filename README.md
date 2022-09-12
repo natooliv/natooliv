@@ -1,17 +1,42 @@
-### 
-<div align="center">
-  <a href="https://github.com/natooliv">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=natooliv&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natooliv&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+## Alô Alô Mundo! 👋
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Nat-Js" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="right" alt="Nat-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/109634929/189771763-6ae06a50-2277-4a60-82f5-0538837d628b.png)">
+</span>
+
+<div align="rigth">
+<img src="https://desblogada.files.wordpress.com/2021/05/kaka-cordovil-java-developer-2.gif" width="700px" />
+</div>
+<p align="center">
+  Ei! Tão bom ver você aqui. <br>Sou a Nat, sou uma aspirante  a <strong> Desenvolvedora de Web Fullstack</strong>! </p>
+<p align="center">
+💼 Habilidades: <strong>Superando obstáculos com um grande sorriso.</strong>
+</p>
+
+⭐ Estatísticas do GitHub
+
+<p align="rigth">
+  <img src = "https://github-readme-stats.vercel.app/api?username=natooliv&show_icons=true&theme=tokyonight&line_height=27">
+</p>
+<p align="center">
+  💌 Mande uma mensagem: ⤵️
+</p>
+
+<p align="center">
+  <a href="https://www.instagram.com/natcholiv_/" alt="Instagram"><img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/keidsondesigner/"/> </a>
+<a href="https://www.linkedin.com/in/nataliafpoliv/" alt="Linkedin">
+<img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/keidsonroby/" /  </a>
+  
+</p>  
+<p align="center">
+  <a href="https://www.buymeacoffee.com/natcholiv" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt= "Compre-me um café" height="60px" width="217px" ></a>
+</p>
+
+
+<div align="center">
+<h2>Vamos codificar!!!</h2>
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="400px" />
 </div>
 
   ##
-  <div> 
-  <a href="https://www.linkedin.com/in/nataliafpoliv/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
   
  
