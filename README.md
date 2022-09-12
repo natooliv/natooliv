@@ -10,12 +10,6 @@
 <p align="center">
 💼 Habilidades: <strong>Superando obstáculos com um grande sorriso.</strong>
 </p>
-
-⭐ Estatísticas do GitHub
-
-<p align="rigth">
-  <img src = "https://github-readme-stats.vercel.app/api?username=natooliv&show_icons=true&theme=tokyonight&line_height=27">
-</p>
 <p align="center">
   💌 Mande uma mensagem: ⤵️
 </p>
@@ -29,14 +23,19 @@
 <p align="center">
   <a href="https://www.buymeacoffee.com/natcholiv" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt= "Compre-me um café" height="60px" width="217px" ></a>
 </p>
-
+⭐ Estatísticas do GitHub
+<p align = "centro">
+  <img src = "https://github-readme-stats.vercel.app/api?username=natooliv&show_icons=true&theme=tokyonight&line_height=27">
+</p>
 
 <div align="center">
 <h2>Vamos codificar!!!</h2>
 <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="400px" />
 </div>
 
-  ##
+
+
+<!--
  
   
  
