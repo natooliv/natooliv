@@ -6,7 +6,7 @@
 <img src="https://desblogada.files.wordpress.com/2021/05/kaka-cordovil-java-developer-2.gif" width="700px" />
 </div>
 <p align="center">
-  Ei! Tão bom ver você aqui. <br>Sou a Nat, sou uma aspirante  a <strong> Desenvolvedora de Web Fullstack</strong>! </p>
+  Ei! Tão bom ver você aqui. <br>Sou a Nat, sou uma aspirante  a <strong> Desenvolvedora Web Fullstack</strong>! </p>
 <p align="center">
 💼 Habilidades: <strong>Superando obstáculos com um grande sorriso.</strong>
 </p>
